@@ -1,2 +1,0 @@
-hello devops aws 
-azzure
