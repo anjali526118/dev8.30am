@@ -1,1 +1,4 @@
-# dev8.30am
+welcome to devops
+aws
+linux
+
