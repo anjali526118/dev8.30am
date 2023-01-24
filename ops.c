@@ -14,4 +14,8 @@ print
 {
 	div= a/b
 }
-
+==============
+void main
+{
+ :::::stash::::::
+}
