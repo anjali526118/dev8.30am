@@ -1,5 +1,11 @@
-void main
+<<<<<<< HEAD
+class Demo
 {
-print some msg
+  public static void main(....)
+  {
+    system.out.print(" Hello world ");
+    system.out.print(" Hello world ");
+  }
+>>>>>>> devops
 }
 
